@@ -1,4 +1,6 @@
 # esp8266_smartwares_sh4
-Programa para leer los pulsadores de esta marca 
+Programa para leer los pulsadores de esta marca.
 
-la libreria original es de https://github.com/arjhun/arduino-sf501remote, yo solo e creado este archivo.
+en concreto estos....https://www.smartwares.eu/es-es/smartwares-sh4-99751li03-juego-de-luces-de-sh4--99751li03
+
+la libreria original es de https://github.com/arjhun/arduino-sf501remote, yo solo e creado este archivo basandome en sus datos.
